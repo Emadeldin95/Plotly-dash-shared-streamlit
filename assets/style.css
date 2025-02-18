@@ -10,3 +10,23 @@ h1 {
 p {
     color: #6c757d;
 }
+
+/* Table styles */
+.dash-table-container {
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.dash-table-container .dash-spreadsheet {
+    border: 1px solid #dee2e6;
+}
+
+.dash-table-container .dash-header {
+    background-color: #007bff;
+    color: white;
+}
+
+.dash-table-container .dash-cell {
+    padding: 10px;
+}
