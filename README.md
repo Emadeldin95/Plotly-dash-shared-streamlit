@@ -1,6 +1,7 @@
 # Plotly Dash Application
 
 This is a simple Plotly Dash application that uses Bootstrap components for styling. The application can be shared publicly using Streamlit.
+This is a demonstration on how to share python web apps on the internet using streamlit and expose it with a public url to use it.
 
 ## Requirements
 
